@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">MorseCoder</string>
+    <string name="record_button">TODORecord</string>
+    <string name="morse_button">Morse</string>
+    <string name="stop_record_button">TODOStop recording</string>
+    <string name="morse_text">Morse goes here</string>
+    <string name="plain_text">Plain text goes here</string>
+    <string name="delete">Delete</string>
+    <string name="space">Space</string>
+    <string name="dih">.</string>
+    <string name="dah">-</string>
+    <string name="play">TODOPlay</string>
+    <string name="stop">TODOStop</string>
+
+</resources>
